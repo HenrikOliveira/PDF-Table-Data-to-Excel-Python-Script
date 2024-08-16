@@ -1,8 +1,12 @@
 # PDF-Table-Data-to-Excel-Python-Script
 
-**
+
+
+
 > **DESAFIO FREELANCER 350 EUROS ABAIXO**
-**O script converte dados data tabulares de pdf e tranforma ele eum uma tabela em exel**
+**O script converte dados data tabulares de pdf e tranforma ele em uma tabela em exel**
+
+
 
 
 Python expert who can develop a script that extracts tabular data from PDF files and organizes it into Excel.
